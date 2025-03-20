@@ -1,6 +1,6 @@
-//PREXZY SOLOS
-//YouTube: @prexzyvilla
-//Telegram: t.me/prexzyvilla_tech
+//jordiifox
+//YouTube: @jordiifox
+//Telegram: https://wa.me/message/LHJ4Z5X7ZK7CH1
 
 
 
@@ -8,26 +8,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: PrexzyVilla" //ur yt chanel name
-global.socialm = "IG : prexzy.ay" //ur github or insta name
-global.location = "Nigeria" //ur location
+global.ytname = "YT: jordiifox" //ur yt chanel name
+global.socialm = "IG :jordiifox" //ur github or insta name
+global.location = "south Africa" //ur location
 
 //new
-global.botname = 'QUEEN NYX👸' //ur bot name
-global.ownernumber = '16582044119' //ur owner number
-global.ownername = '©Precious Ayomide' //ur owner name
-global.websitex = "https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
-global.wagc = "https://chat.whatsapp.com/EletTHoIrrj2CCPFYfmdVD" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
+global.botname = 'Qinisobot' //ur bot name
+global.ownernumber = '27694698095' //ur owner number
+global.ownername = 'jordiiiQiniso' //ur owner name
+global.websitex = "https://whatsapp.com/channel/0029VapGHm06hENhBFyvGD2t" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
+global.wagc ="https://wa.me/message/LHJ4Z5X7ZK7CH1" //"https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F"
 global.idch = '120363322892680943@newsletter'
 global.themeemoji = '🪀'
 global.wm = "NYX👸"
-global.botscript = 'https://whatsapp.com/channel/0029VapyPnMKAwEk3YuHAb3s' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
-global.packname = "Queen Nyx👸"
-global.author = "Precious Ayomide"
-global.creator = "2349159895444@s.whatsapp.net"
+global.botscript = 'https://whatsapp.com/channel/0029VapGHm06hENhBFyvGD2t' //'https://whatsapp.com/channel/0029VaoNzzlJJhzQTJBL5n0F' //script link
+global.packname = "jordiix👸"
+global.author = "jordiibotQin"
+global.creator = "27694698095@s.whatsapp.net"
 global.xprefix = '.'
 global.antidelete = true
-global.premium = ["2349159895444"] // Premium User
+global.premium = ["27694698095"] // Premium User
 global.hituet = 0
 global.chatModeUsers = {}; // Store chat mode status per user
 
